@@ -5,4 +5,4 @@ def kph_to_mph(kph):
 
 for kph in range(0,201,5):
     mph = kph_to_mph(kph)
-    print(kph, "kph is", round(mph, 2), "mph")
+    print(kph, "kph is", round(mph, 3), "mph")
