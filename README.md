@@ -1,5 +1,5 @@
-Leaning To Code
-===============
+Mikael Learns To Code
+=====================
 
 > Coding is fun! Here is where I play with code!
 
